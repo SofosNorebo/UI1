@@ -1,2 +1,2 @@
 # UI1
-User interface test
+This is only a Test of a user interface, nothing too interesting.
